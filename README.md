@@ -22,6 +22,7 @@
 
   ## Usage
   --------
+  ![](https://github.com/eymerin/Employee-Tracker-SQL/blob/main/demo.gif)
   No usage instructions needed.
 
   (Optional: Video provided to demostrate how to run the program.)
